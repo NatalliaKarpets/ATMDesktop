@@ -5,3 +5,4 @@
 2
 
 commit1 to master
+commit2 to master
